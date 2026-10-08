@@ -298,4 +298,38 @@ Some optional password-protection warnings were not enabled. I recorded their st
 * Identifying potentially unwanted app controls
 * Comparing security overview messages with detailed settings
 * Documenting security configurations
+## Activity 10: Windows Account and Administrator Access
+
+**Area checked:** Windows Settings — Accounts — Your info
+
+### Account details observed
+
+* **Account type:** Microsoft account.
+* **Account role displayed:** Administrator.
+* **Identity verification:** Windows displayed an option to verify identity to sync passwords across devices.
+* **Local account option:** Windows offered the option to switch to a local account.
+
+### What I learned
+
+A Microsoft account can connect Windows settings and supported services across devices. A local account is an account used on a particular Windows device rather than being signed in through a Microsoft account.
+
+An administrator account has permission to make important system changes, including installing software and changing certain security settings. These privileges should be used carefully.
+
+### Result
+
+I reviewed the Your info page in Windows Settings. It displayed a Microsoft account and identified the account role as Administrator.
+
+### Security observation
+
+Administrator access is useful for managing a computer, but it can also allow significant system changes. Strong authentication and careful handling of administrator privileges help reduce security risks.
+
+I recorded the account type and role without changing account settings or sharing personal account details.
+
+### Skills Practised
+
+* Identifying a Windows account type
+* Understanding administrator privileges
+* Comparing Microsoft and local accounts
+* Reviewing account security information
+* Documenting technical observations
 
