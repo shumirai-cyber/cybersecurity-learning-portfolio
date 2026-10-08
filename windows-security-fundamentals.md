@@ -40,3 +40,24 @@ This records what Windows reported at the time of my check. It does not replace 
 ## Disclaimer
 
 This project documents observations made on my own Windows 11 device for educational purposes.
+
+## Activity 2: Firewall and Network Protection
+
+**Area checked:** Windows Security — Firewall & network protection
+
+**Active network profile:** Public network
+
+**Firewall status:** On
+
+### What I learned
+
+Microsoft Defender Firewall helps monitor network traffic and blocks connections that do not meet its rules. Windows provides different network profiles, including Public and Private, to apply appropriate network settings.
+
+### Result
+
+I checked the active network profile in Windows Security. My laptop showed Public network as the active profile, and the firewall status was On.
+
+### Security observation
+
+Windows may use a Public network profile for a home Wi-Fi connection. This does not necessarily mean the Wi-Fi is a public hotspot. I will review the network classification and keep the firewall enabled.
+
