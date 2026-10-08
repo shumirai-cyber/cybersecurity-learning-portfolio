@@ -92,4 +92,32 @@ Keeping Windows up to date is an important part of cybersecurity because updates
 * Understanding the importance of security patches
 * Recording technical observations
 
+## Activity 4: Device Encryption
+
+**Area checked:** Windows Settings — Privacy & security — Device encryption
+
+**Device encryption status:** Off
+
+**Related feature:** BitLocker device encryption
+
+### What I learned
+
+Device encryption helps protect data stored on a computer by making it unreadable without the required decryption key. This can help protect files if a device is lost or stolen.
+
+BitLocker is a Windows technology used to encrypt drives. Some Windows devices support automatic device encryption, while availability depends on the device and its configuration.
+
+### Result
+
+I checked the Device encryption section in Windows Settings. My computer showed that device encryption was Off and provided a related option for BitLocker device encryption and finding the BitLocker recovery key.
+
+### Security observation
+
+Device encryption was reported as Off during my check. This means I should not assume that the data on my device is protected by device encryption. I will review device compatibility and encryption options before making any changes.
+
+### Skills Practised
+
+* Locating device security settings
+* Checking encryption status
+* Understanding the purpose of BitLocker
+* Recording a security observation
 
