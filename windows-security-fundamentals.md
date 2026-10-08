@@ -159,4 +159,39 @@ Some Windows Hello sign-in methods were unavailable on my device. This does not 
 * Identifying authentication methods
 * Understanding Windows Hello and security keys
 * Recording security settings accurately
+## Activity 6: Reviewing Installed Software
+
+**Area checked:** Windows Settings — Apps — Installed apps
+
+### Software observed
+
+During this activity, I reviewed the installed applications listed on my Windows computer. Examples included:
+
+* Acer utilities and configuration software
+* AMD chipset software and AMD software
+* AVG Secure Browser
+* Blender
+* Windows Calculator and Camera
+* Asphalt 8 Airborne
+* Other pre-installed applications and utilities
+
+### What I learned
+
+Installed applications provide different functions, including hardware management, web browsing, creative work, and entertainment. Software can introduce security risks if it contains vulnerabilities or is no longer supported. Keeping applications updated and obtaining software from trusted sources are important security practices.
+
+### Result
+
+I opened the Installed apps section in Windows Settings and recorded examples of the applications displayed. I did not uninstall or modify any applications during this activity.
+
+### Security observation
+
+The presence of an application does not automatically mean it is unsafe. I would need to check its publisher, support status, update options, and other relevant information before deciding whether it needs attention. I did not confirm the update status of the applications during this check.
+
+### Skills Practised
+
+* Navigating Windows Settings
+* Reviewing installed applications
+* Recognising different categories of software
+* Understanding software maintenance and security risks
+* Documenting technical observations
 
