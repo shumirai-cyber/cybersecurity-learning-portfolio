@@ -120,4 +120,43 @@ Device encryption was reported as Off during my check. This means I should not a
 * Checking encryption status
 * Understanding the purpose of BitLocker
 * Recording a security observation
+## Activity 5: Windows Sign-in Security
+
+**Area checked:** Windows Settings — Accounts — Sign-in options
+
+### Sign-in methods observed
+
+* **Facial recognition:** Currently unavailable.
+* **Fingerprint recognition:** Currently unavailable.
+* **PIN (Windows Hello):** Currently unavailable.
+* **Security key:** Option available for signing in with a physical key.
+
+### Additional settings observed
+
+* **Only allow Windows Hello sign-in for Microsoft accounts:** On.
+* **Dynamic Lock:** Automatically locks the device when the user is away; the related setting was observed.
+* **Automatically save and restart apps after signing in:** Off.
+* **Show account details on the sign-in screen:** Off.
+* **Use sign-in information to finish setting up after an update:** On.
+
+### What I learned
+
+Windows provides different sign-in methods to help protect access to a computer. Windows Hello supports options such as a PIN, facial recognition, and fingerprint recognition when compatible hardware and configuration are available. A security key is a physical device that can be used for authentication.
+
+Dynamic Lock can help automatically lock a computer when a paired device, such as a phone, moves out of Bluetooth range.
+
+### Result
+
+I reviewed the Windows Sign-in options page and recorded which sign-in methods were available or unavailable and the status of several additional settings.
+
+### Security observation
+
+Some Windows Hello sign-in methods were unavailable on my device. This does not automatically mean the computer is insecure. I recorded the current configuration without changing any settings.
+
+### Skills Practised
+
+* Reviewing Windows account security
+* Identifying authentication methods
+* Understanding Windows Hello and security keys
+* Recording security settings accurately
 
