@@ -332,4 +332,29 @@ I recorded the account type and role without changing account settings or sharin
 * Comparing Microsoft and local accounts
 * Reviewing account security information
 * Documenting technical observations
+## Activity 11: Windows Security Protection Status
+
+**Objective:** Review the Windows Security dashboard and identify the protection status displayed by Windows.
+
+**Steps performed:**
+
+1. Opened the Windows Security application.
+2. Reviewed the **Security at a glance** dashboard.
+3. Checked the status of the main security sections.
+
+**Observations:**
+
+* **Virus & threat protection:** Green tick — “No action needed.”
+* **Account protection:** Green tick — “No protection needed.”
+* **Firewall & network protection:** Green tick — “No action needed.”
+* **App & browser control:** Green tick — “No action needed.”
+* **Device security:** Green tick displayed; the section provides access to hardware security features.
+* **Device performance & health:** “No action needed.”
+* **Family options:** Information about managing family device use was displayed.
+* **Protection history:** The section was available to view recent protection actions and recommendations.
+
+**What I learned:**
+The Windows Security dashboard provides a central place to review several areas of device protection. Green ticks and “No action needed” messages indicate that Windows is not currently reporting an action that needs attention in those sections. They do not, by themselves, guarantee that a device is completely secure.
+
+**Outcome:** Completed a basic review of the Windows Security dashboard without changing any settings.
 
