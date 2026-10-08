@@ -61,3 +61,35 @@ I checked the active network profile in Windows Security. My laptop showed Publi
 
 Windows may use a Public network profile for a home Wi-Fi connection. This does not necessarily mean the Wi-Fi is a public hotspot. I will review the network classification and keep the firewall enabled.
 
+## Activity 3: Windows Update
+
+**Area checked:** Windows Settings — Windows Update
+
+**Last checked:** Today at 11:54
+
+**Update status:** Updates available
+
+**Automatic installation message:** These updates will install automatically with the next Windows cumulative update.
+
+**Get the latest updates as soon as they are available:** Off
+
+### What I learned
+
+Windows Update helps keep an operating system secure by delivering security updates, bug fixes, and improvements. Installing updates helps protect a computer against known security vulnerabilities.
+
+### Result
+
+I opened Windows Update in Windows Settings and checked the available update information. Windows reported that updates were available and that they would install automatically with the next Windows cumulative update. The option to get the latest updates as soon as they are available was switched off.
+
+### Security observation
+
+Keeping Windows up to date is an important part of cybersecurity because updates can fix known security weaknesses. I recorded the status displayed by my laptop. I will review the available updates and follow the normal Windows update process when appropriate.
+
+### Skills Practised
+
+* Checking Windows Update status
+* Identifying available updates
+* Understanding the importance of security patches
+* Recording technical observations
+
+
