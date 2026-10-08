@@ -225,4 +225,36 @@ Backup and syncing settings should be reviewed to understand where important fil
 * Understanding cloud syncing
 * Distinguishing file syncing from backups
 * Recording security observations accurately
+## Activity 8: App and Browser Protection
+
+**Area checked:** Windows Security — App & browser control
+
+### Security features observed
+
+* **Smart App Control:** The settings page was displayed.
+* **Reputation-based protection:** Windows displayed a warning that blocking potentially unwanted apps was turned off.
+* **Potentially unwanted app blocking:** Off.
+* **Exploit Protection:** The Windows security feature and its settings were available.
+
+### What I learned
+
+Reputation-based protection uses information about apps and websites to help identify potentially unsafe content. Potentially unwanted applications may display unwanted adverts, install extra software, or cause other problems.
+
+Microsoft Defender SmartScreen helps protect users from malicious websites, downloads, and unrecognised apps. Exploit Protection helps reduce the risk of attacks that exploit software vulnerabilities.
+
+### Result
+
+I opened App & browser control in Windows Security and reviewed the available protection features. Windows reported that potentially unwanted app blocking was turned off and displayed a warning that the device may be vulnerable.
+
+### Security observation
+
+Potentially unwanted app blocking is an additional layer of protection. Its disabled status does not prove that the computer is infected. I recorded the warning and will review the setting before making changes.
+
+### Skills Practised
+
+* Navigating Windows Security
+* Identifying app and browser protection features
+* Recognising a disabled security setting
+* Understanding reputation-based protection
+* Recording security observations
 
