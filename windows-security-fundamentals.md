@@ -257,4 +257,45 @@ Potentially unwanted app blocking is an additional layer of protection. Its disa
 * Recognising a disabled security setting
 * Understanding reputation-based protection
 * Recording security observations
+## Activity 9: Detailed Reputation-Based Protection Review
+
+**Area checked:** Windows Security — App & browser control — Reputation-based protection settings
+
+### Settings observed
+
+* **Check apps and files:** On.
+* **Microsoft Defender SmartScreen for Microsoft Edge:** On.
+* **Phishing protection:** On.
+* **Warn me about malicious apps and sites:** Enabled.
+* **Warn me about password reuse:** Not enabled.
+* **Warn me about unsafe password storage:** Not enabled.
+* **Automatically collect app or website content for additional security analysis:** Enabled.
+* **Potentially unwanted app blocking:** On.
+* **Block apps:** On.
+* **Block downloads:** On.
+* **SmartScreen for Microsoft Store apps:** On.
+
+### What I learned
+
+Reputation-based protection helps Windows identify suspicious apps, downloads, and websites. Microsoft Defender SmartScreen can warn users about potentially dangerous websites and unrecognised downloads.
+
+Phishing protection can help protect passwords from malicious apps and websites. Potentially unwanted app blocking helps prevent low-reputation apps that may cause unwanted behaviour.
+
+### Result
+
+I reviewed the detailed Reputation-based protection settings. The main app and file checking, Edge SmartScreen, phishing protection, potentially unwanted app blocking, and SmartScreen for Microsoft Store apps were enabled.
+
+### Security observation
+
+The detailed settings showed that potentially unwanted app blocking, Block apps, and Block downloads were all enabled. This differed from the earlier overview warning, so I recorded the more specific settings shown on the detailed page.
+
+Some optional password-protection warnings were not enabled. I recorded their status without changing any settings.
+
+### Skills Practised
+
+* Reviewing detailed Windows security settings
+* Understanding SmartScreen and phishing protection
+* Identifying potentially unwanted app controls
+* Comparing security overview messages with detailed settings
+* Documenting security configurations
 
