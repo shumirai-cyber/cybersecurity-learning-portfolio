@@ -194,4 +194,35 @@ The presence of an application does not automatically mean it is unsafe. I would
 * Recognising different categories of software
 * Understanding software maintenance and security risks
 * Documenting technical observations
+## Activity 7: Reviewing Windows Backup Settings
+
+**Area checked:** Windows Settings — Accounts — Windows backup
+
+### Settings observed
+
+* **OneDrive folder syncing:** An option was displayed to select folders for protection and access across devices. I did not confirm which folders were being synced.
+* **Remember my apps:** On.
+* **Remember my preferences:** On.
+* **Protection resources:** A section was displayed.
+
+### What I learned
+
+Windows Backup provides options to help users remember settings and apps across devices. OneDrive folder syncing can make selected files available across devices when syncing is configured.
+
+File syncing is not always the same as maintaining an independent backup. Important files should be protected with an appropriate backup strategy.
+
+### Result
+
+I opened the Windows Backup page and reviewed the available settings. The options to remember my apps and preferences were both switched on. I did not change any settings or confirm that my files were backed up.
+
+### Security observation
+
+Backup and syncing settings should be reviewed to understand where important files are stored and how they can be recovered. I would verify which folders are protected and whether a separate backup exists before relying on these settings for recovery.
+
+### Skills Practised
+
+* Reviewing Windows Backup settings
+* Understanding cloud syncing
+* Distinguishing file syncing from backups
+* Recording security observations accurately
 
