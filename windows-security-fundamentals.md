@@ -357,4 +357,32 @@ I recorded the account type and role without changing account settings or sharin
 The Windows Security dashboard provides a central place to review several areas of device protection. Green ticks and “No action needed” messages indicate that Windows is not currently reporting an action that needs attention in those sections. They do not, by themselves, guarantee that a device is completely secure.
 
 **Outcome:** Completed a basic review of the Windows Security dashboard without changing any settings.
+## Activity 12: Windows Sign-in and Account Security
+
+**Objective:** Review Windows sign-in options and settings that help protect access to a computer.
+
+**Steps performed:**
+
+1. Opened Windows Settings.
+2. Navigated to Accounts → Sign-in options.
+3. Reviewed available sign-in methods and additional security settings.
+
+**Observations:**
+
+* **Facial recognition (Windows Hello):** Currently unavailable.
+* **Fingerprint recognition (Windows Hello):** Currently unavailable.
+* **PIN (Windows Hello):** Currently unavailable.
+* **Security key:** An option to sign in using a physical security key was displayed.
+* **Windows Hello sign-in restriction:** Enabled. Windows is configured to allow only Windows Hello sign-in for Microsoft accounts on this device.
+* **Require sign-in after being away:** Set to 15 minutes.
+* **Dynamic Lock:** An option to automatically lock the computer when the user is away was displayed. Its enabled status was not confirmed.
+* **Automatically save and restart apps after signing in:** Off.
+* **Show account details on the sign-in screen:** Off.
+* **Use sign-in information to finish setting up after an update:** On.
+
+**What I learned:**
+
+Windows provides multiple sign-in methods, including facial recognition, fingerprints, PINs and physical security keys. Requiring sign-in after a period of inactivity can help protect a computer when the user leaves it unattended. Hiding account details on the sign-in screen can also reduce the personal information displayed to others.
+
+**Outcome:** Reviewed the available sign-in methods and security-related settings without changing the device configuration.
 
